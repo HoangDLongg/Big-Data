@@ -16,8 +16,8 @@ Do giới hạn của GitHub (không cho phép file trên 100MB), bộ dữ li�
 
 Để chạy dự án, bạn cần tải bộ dữ liệu và đặt vào thư mục phù hợp (ví dụ: `data/`).
 
-* **Link tải dữ liệu (12GB):** `https://drive.google.com/file/d/1s-AQeVRUbJKurIcPerxnMz6gM2VczMjV/view?usp=sharing`
-
+* **Link tải dữ liệu (Spark):** `https://drive.google.com/file/d/1s-AQeVRUbJKurIcPerxnMz6gM2VczMjV/view?usp=sharing`
+* **Link tải dữ liệu (Kmean - MapReduce):** `https://drive.google.com/file/d/1gPnUnPFG3volQRJdG1W6q4CJ6OCnms0Z/view?usp=sharing`
 ---
 
 ##  Công nghệ sử dụng
